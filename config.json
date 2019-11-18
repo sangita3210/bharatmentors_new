@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.bharatmentors",
-    "appname": "Bharat Mentors Mobile",
-    "desktopappname": "Bharat Mentors Desktop",
+    "app_id": "com.moodle.bm01",
+    "appname": "Moodle Mobile",
+    "desktopappname": "Moodle Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
