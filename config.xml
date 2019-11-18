@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.bm01"
+        id        = "com.moodle.moodlemobile"
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Bharat Mentors</name>
+    <name>Moodle</name>
 
     <description>
-        Bharat Mentors official app
+        Moodle official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Bharat Mentors team
+        Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
