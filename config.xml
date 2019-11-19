@@ -9,11 +9,11 @@
     <name>Bharat Mentors</name>
 
     <description>
-        Bharat Mentors official app
+        Moodle official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Bharat Mentors Mobile team
+        Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
