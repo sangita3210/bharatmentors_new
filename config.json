@@ -69,14 +69,14 @@
     //         "password": "moodle"
     //     }
     // },
-    "demo_sites":[],
+    "demo_sites": [],
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "www.bharatmentors.com",
+    "siteurl": "http://www.bharatmentors.com/",
     "sitename": "Bharat Mentors",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
