@@ -69,7 +69,7 @@
     //         "password": "moodle"
     //     }
     // },
-    "demo_sites":"";
+    "demo_sites":[];
     "font_sizes": [
         62.5,
         75.89,
