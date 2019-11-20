@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.bharatmentors",
+    "app_id": "com.moodle.moodlemobile",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3710,
@@ -57,31 +57,30 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    // "demo_sites": {
-    //     "student": {
-    //         "url": "https:\/\/school.moodledemo.net",
-    //         "username": "student",
-    //         "password": "moodle"
-    //     },
-    //     "teacher": {
-    //         "url": "https:\/\/school.moodledemo.net",
-    //         "username": "teacher",
-    //         "password": "moodle"
-    //     }
-    // },
-    "demo_sites": [],
+    "demo_sites": {
+        "student": {
+            "url": "https:\/\/school.moodledemo.net",
+            "username": "student",
+            "password": "moodle"
+        },
+        "teacher": {
+            "url": "https:\/\/school.moodledemo.net",
+            "username": "teacher",
+            "password": "moodle"
+        }
+    },
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
-    "customurlscheme": "bharatmentors",
-    "siteurl": "https://bharatmentors.com/",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/bharatmentors.com\/mod\/page\/view.php?id=8148",
+    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
